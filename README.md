@@ -24,7 +24,9 @@
       <center> <h1>Dashboard Visualisasi Data  Interaktif Kemiskinan dan Ketimpangan Provinsi Sumatera Barat Tahun 2016-2021</h1>
     </body> </center>
 
+
 <!-- TABLE OF CONTENTS -->
+<!--
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -49,7 +51,7 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
+-->
 
 
 <!-- ABOUT THE PROJECT -->
