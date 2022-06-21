@@ -76,8 +76,6 @@ Dashboard dibuat menggunakan aplikasi Tableau Desktop. Dashboard dibuat interakt
 Dashboard visualisasi ini ditampilkan pada Tableau Public, sehingga semua orang bisa melihat dashboard visualisasi data interaktif melalui internet. Melalui dashboard tersebut diharapkan semua orang bisa mendapatkan informasi tentang indikator kemiskinan dengan efektif dan efisien melalui fitur yang telah disediakan.
 </br>
 
-Use the `BLANK_README.md` to get started.
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -101,9 +99,9 @@ Selanjutnya, akan dijabarkan berbagai tools yang digunakan dalam pembuatan Dashb
 
 <!-- GETTING STARTED -->
 ## Proses Pembuatan Dashboard Visualisasi Data Interaktif
-<br>
+
 <h3> Proses pembuatan Visualisasi Data Interaktif Menggunakan Tableau sebagai berikut : </h3> 
-</br>
+
 
 ### 1. Seleksi dan Pemilihan Data
 
@@ -244,22 +242,34 @@ Contoh Implementasi :
   <img src="images/contoh1.png" alt="contoh1">
 </center>
 Terlihat bahwa, penggunaan dashboard visualisasi data ini yaitu menggunakan all fitur tahun dan mengklik salah satu daerah di Sumatera Barat yaitu kabkot Agam. Pada dashboard, didapatkan informasi kabkot : Agam, kabkotno : 07, provinsi : Sumatera Barat, dan AVG Jumlahh penduduk : 34.62. Selain itu pada visualisasi linechart, barchart, dan data interaktif mengalami perubahan sesuai fitur yang dipilih. seperti kita lihat bahwa, Kabkot Agam termasuk ke dalam 10 Top Penduduk miskin tertinggi di Sumatera Barat dengan AVG Peresentase penduduk miskin yaitu sebesar 7.088% dengan legendanya menunjuk warna yang merah. Serta Garis kemiskinan diketahui nilainya sebesar 372.154 rupiah/kapita.
+
+<br>
 <center>
   <img src="images/contoh2.png" alt="contoh2">
 </center>
 Terlihat bahwa, penggunaan dashboard visualisasi data ini yaitu menggunakan fitur tahun dengan tahun 2017, 2019, dan 2021. Dengan mengklik salah satu daerah di Sumatera Barat pada barchart yaitu kabkot Pasaman Barat. Pada dashboard, didapatkan informasi kabkot : Pasaman Barat, dan AVG Persentase penduduk miskin : 7.303%. Selain itu pada visualisasi linechartdan data interaktif mengalami perubahan sesuai fitur yang dipilih. seperti kita lihat bahwa, nilai Garis Kemiskinan sebesar 431.010 rupiah/perkapita dan Gini ratio sebesar 0.2767 dengan legendanya menunjuk warna yang pink. Serta linechart diketahui berbentuk seperti v.
+</br>
+
+<br>
 <center>
   <img src="images/contoh3.png" alt="contoh3">
 </center>
 Terlihat bahwa, penggunaan dashboard visualisasi data ini yaitu menggunakan fitur tahun hanya pada tahun 2021. Maka, pada dashboard, didapatkan informasi semua visualisasi peta tematik, linechart, barchart, dan data interaktif mengalami perubahan sesuai fitur yang dipilih yaitu berdasarkan tahun 2021. Seperti kita lihat bahwa, nilai Garis Kemiskinan sebesar 474.713 rupiah/perkapita dan Gini ratio sebesar 0.2791 dengan adanya tampilan legenda. Serta linechart diketahui seperti titik yang menuju pada tahun 2021.
+</br>
+
+<br>
 <center>
   <img src="images/contoh4.png" alt="contoh4">
 </center>
 Terlihat bahwa, penggunaan dashboard visualisasi data ini yaitu menggunakan fitur pemilihan kabupaten/kota yaitu pilihan pada Highlight kabkot. Kabkot yang dipilih ialah kabkot Kepulauan Mentawai. Maka, pada dashboard, didapatkan informasi visualisasi peta tematik dan barchart mengalami perubahan sesuai fitur yang dipilih yaitu berdasarkan wilayah yang diplih. Seperti kita lihat bahwa, kabkot : Kepulauan Mentawai, dan AVG Persentase penduduk miskin : 14.642%.
+</br>
+
+<br>
 <center>
   <img src="images/contoh5.png" alt="contoh5">
 </center>
 Terlihat bahwa, penggunaan dashboard visualisasi data ini yaitu menggunakan fitur tahun dengan rentang tahun 2016 dan 2021 saja dan mengklik kabkot Dharmasraya pada peta tematik. Maka, pada dashboard, didapatkan informasi semua visualisasi peta tematik, linechart, barchart, dan data interaktif mengalami perubahan sesuai fitur yang dipilih yaitu berdasarkan tahun 2016 dan 2021 serta wilayahnya yaitu kabkot Dharmasraya. Seperti kita lihat bahwa, nilai Garis Kemiskinan sebesar 406.880 rupiah/perkapita dan Gini ratio sebesar 0.2890 dengan adanya tampilan legenda. Linechart diketahui seperti garis yang membentang pada tahun 2016 dan 2021. Serta Barchart yang menunjukkan warna merah.
+</br>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
